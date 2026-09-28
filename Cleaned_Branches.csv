@@ -1,0 +1,41 @@
+﻿branch_id,branch_name,city,state,region,opening_date,employee_count
+BR001,Jacksonville Branch,Jacksonville,FL,South,27-Nov-05,48
+BR002,Chicago Branch,Chicago,IL,Central,13-Sep-02,36
+BR003,Anchorage Branch,Anchorage,AK,West,28-Aug-02,40
+BR004,San Diego Branch,San Diego,CA,West,31-Aug-04,18
+BR005,Washington Branch,Washington,DC,East,10-May-88,43
+BR006,Colorado Springs Branch,Colorado Springs,CO,Central,04-Oct-00,46
+BR007,Virginia Beach Branch,Virginia Beach,VA,South,22-May-97,23
+BR008,Boston Branch,Boston,MA,East,30-Apr-02,25
+BR009,Las Vegas Branch,Las Vegas,NV,West,19-Aug-91,33
+BR010,Memphis Branch,Memphis,TN,South,31-Oct-88,27
+BR011,Pittsburgh Branch,Pittsburgh,PA,East,07-Nov-09,16
+BR012,Los Angeles Branch,Los Angeles,CA,West,18-May-03,10
+BR013,Jacksonville Branch,Jacksonville,FL,South,03-Jan-01,22
+BR014,San Jose Branch,San Jose,CA,West,19-Mar-00,22
+BR015,Minneapolis Branch,Minneapolis,MN,North,13-Sep-01,45
+BR016,Minneapolis Branch,Minneapolis,MN,North,26-Feb-03,44
+BR017,Omaha Branch,Omaha,NE,Central,11-Feb-08,32
+BR018,Philadelphia Branch,Philadelphia,PA,East,18-Mar-89,30
+BR019,Jacksonville Branch,Jacksonville,FL,South,21-Feb-02,28
+BR020,Colorado Springs Branch,Colorado Springs,CO,Central,05-Dec-99,40
+BR021,Portland Branch,Portland,OR,West,17-Jan-01,34
+BR022,Louisville Branch,Louisville,KY,South,20-Apr-01,10
+BR023,Washington Branch,Washington,DC,East,08-Sep-03,27
+BR024,San Diego Branch,San Diego,CA,West,12-Apr-87,36
+BR025,Atlanta Branch,Atlanta,GA,South,13-Feb-91,28
+BR026,Memphis Branch,Memphis,TN,South,19-Mar-99,35
+BR027,Stockton Branch,Stockton,CA,West,13-Feb-98,45
+BR028,El Paso Branch,El Paso,TX,South,26-Dec-03,24
+BR029,Jacksonville Branch,Jacksonville,FL,South,27-Apr-86,22
+BR030,New Orleans Branch,New Orleans,LA,South,25-May-04,30
+BR031,Atlanta Branch,Atlanta,GA,South,10-Apr-01,12
+BR032,Austin Branch,Austin,TX,South,14-Oct-08,18
+BR033,Boston Branch,Boston,MA,East,13-Aug-90,48
+BR034,Baltimore Branch,Baltimore,MD,East,08-Nov-91,37
+BR035,Atlanta Branch,Atlanta,GA,South,26-Apr-94,30
+BR036,Nashville Branch,Nashville,TN,South,27-Jan-99,30
+BR037,Denver Branch,Denver,CO,Central,09-Feb-88,50
+BR038,Los Angeles Branch,Los Angeles,CA,West,29-Jan-03,44
+BR039,Sacramento Branch,Sacramento,CA,West,10-Jan-05,28
+BR040,Washington Branch,Washington,DC,East,03-Nov-09,14
