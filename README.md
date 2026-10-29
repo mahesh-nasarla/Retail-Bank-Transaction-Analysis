@@ -1,5 +1,7 @@
 Retail Banking Transaction Analysis
+
 MySQL | SQL Business Analytics
+
 Project Overview
 Banks work with data from customers, accounts, branches, transactions, loans, repayments, and cards. Looking at these records separately does not always explain how customers use banking services or where the bank should focus its attention.
 
